@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Ulul tanginamo fuck you lizan
+        Bai na Bai
       </p>
     </>
   )
